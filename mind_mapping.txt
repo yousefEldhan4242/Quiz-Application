@@ -1,0 +1,25 @@
+
+done
+01 - Create JSON Object For Questions
+02 - Start Creating HTML Markup
+03 - Add Dummy Data To Test
+04 - Create The Stylings 
+05 - Fetch Number Of Questions From JSON
+06 - Show Questions Count + Questions Category
+07 - Show The Number Of Bullets Depend On Questions Count
+
+in progess
+08 - Set The Number For The Right And Wrong Answers  (Variables)
+09 - Craete Countdown Timer
+10 - Fetch Questions From JSON Object
+11 - Show First Questions
+12 - Check Answer And Hide Question Then Show The Next
+13 - If Time End Mark The Question As Wrong And Show The Next
+14 - Add Class On Bullets After Answering The Question 
+15 - If Questions Finsihed Show The Results
+
+Ideas 
+- Craete Many JSON Object And Choose language(Category)
+- Add Many Question And Choose Only 10 Randomly 
+- Randomize Answers (Shuffle Fucntion)
+- Create Counter For Question You Are In 
